@@ -3,7 +3,7 @@
 ### Scalable CI/CD Infrastructure With EKS and Karpenter
 Where and when: [Kubernetes Community Days Ukraine](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/), online — 2023
 
-Video: to be updated
+Video: [Talk recording](https://www.youtube.com/watch?v=ZOYA1XNqFBI)
 
 Slides: [KCD-Ukraine-2023-Scalable-CICD-Infrastructure-With-EKS-And-Karpenter.pdf](KCD-Ukraine-2023-Scalable-CICD-Infrastructure-With-EKS-And-Karpenter.pdf)
 

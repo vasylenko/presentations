@@ -1,5 +1,10 @@
 # My public talks
 
+### CI/CD Infrastructure at Scale
+Where and when: BLN DevOps March edition, offline, Berlin, March 2023 
+
+Slides: [CI/CD Infrastructure at Scale](./DevOps-Berlin--Mar-30-2023-CI-CD-Infrastructure-at-Scale.pdf)
+
 ### Scalable CI/CD Infrastructure With EKS and Karpenter
 Where and when: [Kubernetes Community Days Ukraine](https://community.cncf.io/events/details/cncf-kcd-ukraine-presents-kcd-ukraine-2023-fundraiser/), online — 2023
 

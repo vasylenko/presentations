@@ -1,5 +1,10 @@
 # My public talks
 
+### DevOps не про тулінг: Практичний досвід побудови освітнього проєкту в організації
+Where and when: 2023-05-13 - DevOps у стані 2023 - онлайн збір на ЗСУ
+
+Slides: [2023-05-13 - DevOps у стані 2023 - онлайн збір на ЗСУ](./2023-05-13%20-%20DevOps%20%D1%83%20%D1%81%D1%82%D0%B0%D0%BD%D1%96%202023%20-%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B8%CC%86%D0%BD%20%D0%B7%D0%B1%D1%96%D1%80%20%D0%BD%D0%B0%20%D0%97%D0%A1%D0%A3.pdf)
+
 ### CI/CD Infrastructure at Scale
 Where and when: BLN DevOps March edition, offline, Berlin, March 2023 
 
